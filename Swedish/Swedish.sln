@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primitives", "Primitives\Primitives.csproj", "{3C2EB0DB-C558-4E4E-B1A4-C496FB5C9135}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primitives.Test", "Primitives.Test\Primitives.Test.csproj", "{BE34E868-F978-49E7-AD86-0CAD4B530794}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CFDB2F10-7176-407C-BF15-4F7D5AAD0B04}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2EB0DB-C558-4E4E-B1A4-C496FB5C9135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2EB0DB-C558-4E4E-B1A4-C496FB5C9135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2EB0DB-C558-4E4E-B1A4-C496FB5C9135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2EB0DB-C558-4E4E-B1A4-C496FB5C9135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE34E868-F978-49E7-AD86-0CAD4B530794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE34E868-F978-49E7-AD86-0CAD4B530794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE34E868-F978-49E7-AD86-0CAD4B530794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE34E868-F978-49E7-AD86-0CAD4B530794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E4A74D-45AA-4C46-BFE4-E209A09AF121}
+	EndGlobalSection
+EndGlobal

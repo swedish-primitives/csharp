@@ -1,0 +1,9 @@
+# User files
+*.user
+
+# Tooling
+.vs
+
+# Build results
+obj
+bin
